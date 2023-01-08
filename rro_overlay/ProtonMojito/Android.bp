@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "ProtonMojito",
+    theme: "ProtonMojito",
+    sdk_version: "current",
+    vendor: true,
+}

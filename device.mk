@@ -366,6 +366,7 @@ PRODUCT_PACKAGES += \
     CarrierConfigMojito \
     KProfilesMojito \
     FrameworksMojito \
+    ProtonMojito \
     SettingsProviderMojito \
     SettingsMojito \
     SystemUIMojito \
